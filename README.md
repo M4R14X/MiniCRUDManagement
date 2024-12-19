@@ -7,5 +7,5 @@ This project is a simple pharmacy management system developed in Python. It impl
 The data is stored in two different formats: text files and an SQLite3 database.
 
 The project demonstrates how to work with:
-- Text files for data storage (`project_TXT` folder)
-- SQLite3 for database management (`project_SQLite3` folder)
+- Text files for data storage (`CRUD_TXT` folder)
+- SQLite3 for database management (`CRUD_SQLite3` folder)
